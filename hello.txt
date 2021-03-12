@@ -6,3 +6,4 @@ igsouvsifsu
 
 
 it's my life and my rules
+this tis fetech related stuff  commited now in this commit
